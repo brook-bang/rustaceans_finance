@@ -1,6 +1,5 @@
 use std::{error::Error, fmt::Display};
 
-
 #[derive(Debug)]
 enum FinancialError {
     InvalidInput,
