@@ -9,7 +9,7 @@ struct StockData {
     volume: Volume,
 }
 
-struct BondData {
+struct BondData { 
     name: String,
     date: Date,
     price: Price,
